@@ -19,7 +19,34 @@
 
   Before installing nginx or caddy check for update your server
   ```
+  sudo apt update
+  ```
+  
+ <img width="642" alt="image" src="https://user-images.githubusercontent.com/91557605/205425870-0915a3b2-1dee-45eb-90e6-8501d40c8cf1.png">
+
+  update your server
+  ```
   sudo apt upgrade
   ```
-  On my first server I installed nginx
+  <img width="644" alt="image" src="https://user-images.githubusercontent.com/91557605/205425942-8acd89e3-8d69-4253-b2c8-45c9b484574e.png">
 
+  ###On my first server I installed nginx and on my second server I installed caddy
+
+  To install nginx run
+  ```
+  sudo apt install nginx
+  ```
+  
+  <img width="643" alt="image" src="https://user-images.githubusercontent.com/91557605/205426035-cbd4759a-c4c1-4f82-876d-ba280acaa01a.png">
+
+  To install caddy run
+  ```
+  sudo apt install -y debain-keyring debain-archive-keyring apt-transport-hhtps
+  ```
+
+  <img width="640" alt="ub2-3-1-1" src="https://user-images.githubusercontent.com/91557605/205426305-e82b2fcb-2eac-4d51-a9d0-1d2b48028d7e.png">
+
+  ###note: if you got a pink page asking for restart just press Tab to go to OK and then press Enter
+
+  Creating web app 
+  
