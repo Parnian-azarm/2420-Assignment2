@@ -1,5 +1,5 @@
 # 2420-Assignment2
-  1.Digigtal Ocean infrastructure:
+  # <ins>**1.Digigtal Ocean infrastructure:</ins>
 
 <img width="982" alt="image" src="https://user-images.githubusercontent.com/91557605/205423596-bcd0ba14-58f1-44c2-82d5-1f61be2b836c.png">
 
@@ -9,13 +9,13 @@
 
 <img width="940" alt="image" src="https://user-images.githubusercontent.com/91557605/205423967-1eadc503-80d8-4af0-bfa3-c8219d6573fe.png">
 
-  2.Creating regular user:
+  # <ins>**2.Creating regular user:</ins>
 
 <img width="642" alt="ub2-1" src="https://user-images.githubusercontent.com/91557605/205424009-b53f1cf3-c745-456d-8ff6-f5b5cb1bfcb5.png">
 
 <img width="649" alt="image" src="https://user-images.githubusercontent.com/91557605/205424119-f1f6de8d-109a-4bfb-b565-7a215c74e6ed.png">
 
-  3.Installing a web server:
+  # <ins>**3.Installing a web server:</ins>
 
   Before installing nginx or caddy check for update your server
   ```
@@ -48,7 +48,7 @@
 
   ###note: if you got a pink page asking for restart just press Tab to go to OK and then press Enter
 
-  4.Creating web app 
+  # <ins>**4.Creating web app: </ins>
   
   <img width="632" alt="image" src="https://user-images.githubusercontent.com/91557605/205428548-7c963dc9-d43c-466e-bfc0-fe2a8f0293fe.png">
 
@@ -63,27 +63,27 @@
   <img width="636" alt="image" src="https://user-images.githubusercontent.com/91557605/205428714-5d9f76e2-7c70-4a69-ac6e-6f23ebea49ae.png">
 
   
-  5. Writing Caddyfile and nginx serve block
+  # <ins>**5. Writing Caddyfile and nginx serve block:</ins>
   
   <img width="647" alt="image" src="https://user-images.githubusercontent.com/91557605/205428881-da6d332f-9d0a-46e5-955a-4a78fd20c806.png">
   
-  6.Installing node and volta
+  # <ins>**6.Installing node and volta: </ins>
   
    <img width="638" alt="ub2-2" src="https://user-images.githubusercontent.com/91557605/205428892-4d4decbd-bf80-455e-9823-af8aa917ca59.png">
 
-  7.Write a service file named hello_web.service to start node
+  # <ins>**7.Write a service file named hello_web.service to start node:</ins>
   
   <img width="646" alt="image" src="https://user-images.githubusercontent.com/91557605/205428861-c49835c3-ac96-4770-8308-2c21cc3451f0.png">
   
   put your service files in proper location as shown in the screen shots
   
-  9.Test you codes by loading your service files and running your balance loader in a browser
+  # <ins>**9.Test you codes by loading your service files and running your balance loader in a browser:</ins>
   
   <img width="639" alt="image" src="https://user-images.githubusercontent.com/91557605/205428999-0e837e82-b5c0-43d6-84fb-a2480d23d433.png">
 
   <img width="643" alt="image" src="https://user-images.githubusercontent.com/91557605/205429037-bc5cebfb-6016-4945-b578-4dddcb575ad7.png">
   
-  10.The outputs
+  # <ins>**10.The outputs:</ins>
  
   <img width="279" alt="image" src="https://user-images.githubusercontent.com/91557605/205429089-48d94652-b556-412a-8071-77e29ce5f426.png">
 
